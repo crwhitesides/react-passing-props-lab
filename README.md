@@ -47,5 +47,7 @@ As with other labs, we have provided a set of tests all of which must be passing
 
 ## Resources
 
-- Richard Feldman, ["React 0.14: Why Local Component State is a Trap" (https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/)
+- Richard Feldman, ["React 0.14: Why Local Component State is a Trap"] (https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/)
 - Code Refatoring (Wikipedia): https://en.wikipedia.org/wiki/Code_refactoring
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/react-passing-props-lab'>Passing Props Lab</a> on Learn.co and start learning to code for free.</p>
